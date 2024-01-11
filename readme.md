@@ -4,7 +4,10 @@
 
 关注公众号： **程序员王不二**，回复关键词  ：**健身房** ，获取完整版源码
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
+
+# 基于springboot的健身房管理系统
 
 ## 1、项目介绍
 
@@ -14,7 +17,7 @@
 
 用户：个人信息、课程查看和报名
 
-![项目结构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142154718.png)
+![项目结构图](https://www.codeshop.fun/Typora-Images/202207142154718.png)
 
 
 ## 2、项目技术
@@ -23,7 +26,7 @@
 
 模板引擎：Thymeleaf
 
-前端框架：Bootstrap、jsp、css、JavaScript、JQuery
+前端框架：Bootstrap、html、css、JavaScript、JQuery
 
 ## 3、开发环境
 
@@ -39,45 +42,37 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142154958.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207142154958.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155256.jpg)
+![管理员-首页](https://www.codeshop.fun/Typora-Images/202207142155256.jpg)
 
-![管理员-会员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155280.jpg)
+![管理员-会员管理](https://www.codeshop.fun/Typora-Images/202207142155280.jpg)
 
-![管理员-编辑会员](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142154423.jpg)
+![管理员-编辑会员](https://www.codeshop.fun/Typora-Images/202207142154423.jpg)
 
-![管理员-会员卡查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155676.jpg)
+![管理员-会员卡查询](https://www.codeshop.fun/Typora-Images/202207142155676.jpg)
 
-![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155478.jpg)
+![管理员-课程管理](https://www.codeshop.fun/Typora-Images/202207142155478.jpg)
 
-![管理员-课程报名信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155838.jpg)
+![管理员-课程报名信息](https://www.codeshop.fun/Typora-Images/202207142155838.jpg)
 
-![管理员-器材管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155155.jpg)
+![管理员-器材管理](https://www.codeshop.fun/Typora-Images/202207142155155.jpg)
 
-![管理员-员工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155175.jpg)
+![管理员-员工管理](https://www.codeshop.fun/Typora-Images/202207142155175.jpg)
 
 ### 4.3 会员用户模块
 
-![会员-个人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155709.jpg)
+![会员-个人信息](https://www.codeshop.fun/Typora-Images/202207142155709.jpg)
 
-![会员-报名选课](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155382.jpg)
+![会员-报名选课](https://www.codeshop.fun/Typora-Images/202207142155382.jpg)
 
-![会员-我的课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142155744.jpg)
+![会员-我的课程](https://www.codeshop.fun/Typora-Images/202207142155744.jpg)
 
 ### 4.4 数据库设计
 
-![数据库设计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207142156906.png)
-
-## 5、视频演示
-
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**健身房** ，获取完整版源码
+![数据库设计](https://www.codeshop.fun/Typora-Images/202207142156906.png)
 
 
 
